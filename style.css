@@ -69,14 +69,13 @@
 {
     width: 100%;
     object-fit: cover;
-    margin-top: -10px;
 }
 .images
 {
     justify-content: center;
     background-size: cover;
     align-items: center;
-    height: 200px;
+    position: absolute;
 
 }
 p
@@ -131,6 +130,35 @@ p
     color: black;
 }
 
+.demodrive:hover
+{
+    background-color:black;
+    color: white;
+}
+.ordernow:hover
+{
+    background-color: white;
+    color: black;
+}
+
+.learnmore:hover
+{
+    background-color:black;
+    color: white;
+}
+
+.shopnow:hover
+{
+    background-color: white;
+    color: black;
+    outline: black 2px solid;
+}
+
+.menu:hover
+{
+    background-color: white;
+    color: black;
+}
 .model3
 {
     width: 315px;
