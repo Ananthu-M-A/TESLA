@@ -25,15 +25,15 @@
     
 }
 
-
 .logo
 {
     width: 15%;
-    height: 80px;
+    height: 120px;
     position: absolute;
-    top: 5.5%;
-    left: -1%;
+    top: 3%;
+    left: 1%;
 }
+
 .videos video
 {
     width: 100%;
